@@ -1,0 +1,3 @@
+#[QUALITY] == "Rare" && [BASETYPE] == "Weapon" -> [SELL]
+#[QUALITY] == "Rare" && [BASETYPE] == "Armor" -> [SELL]
+#[QUALITY] == "Rare" && [BASETYPE] == "Jewelry" -> [SELL]

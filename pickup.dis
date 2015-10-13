@@ -1,0 +1,5 @@
+[QUALITY] == "Legendary" -> [PICKUP]
+[QUALITY] == "Rare" -> [PICKUP]
+[QUALITY] == "Magic" -> [PICKUP]
+[QUALITY] == "Normal" -> [PICKUP]
+

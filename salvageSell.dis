@@ -1,0 +1,5 @@
+[QUALITY] == "Legendary" # True -> [KEEP]
+#[QUALITY] == "Rare" # True -> [SELL]
+#[QUALITY] == "Magic" # True -> [SELL]
+#[QUALITY] == "Normal" # True -> [SELL]
+#[QUALITY] == "Special" # True -> [SELL]

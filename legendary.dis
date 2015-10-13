@@ -1,0 +1,1000 @@
+//SWORDS => ONE-HANDED
+[NAME] == "Wildwood" -> [TRASH]
+[NAME] == "Shi Mizu's Haori" -> [TRASH]
+[NAME] == "Telranden's Hand" -> [TRASH]
+[NAME] == "Sledge of Athskeleng" -> [TRASH]
+[NAME] == "Goldskin" -> [TRASH]
+[NAME] == "Broken Crown" -> [TRASH]
+[NAME] == "Scourge" -> [TRASH]
+[NAME] == "Cindercoat" -> [TRASH]
+[NAME] == "Skycutter" -> [TRASH]
+//[NAME] == "Shard of Hate" -> [TRASH] 
+ 
+
+//Legendary Helm
+[NAME] == "Leoric's Crown" -> [TRASH]
+[NAME] == "Pride's Fall" -> [TRASH]
+[NAME] == "Broken Crown" -> [TRASH]
+[NAME] == "Blind Faith" -> [TRASH]
+[NAME] == "Deathseer's Cowl" -> [TRASH]
+[NAME] == "Andariel's Visage" -> [TRASH]
+[NAME] == "Mempo of Twilight" -> [TRASH]
+[NAME] == "Skull of Resonance" -> [TRASH] 
+
+
+
+
+
+//SPIRIT STONES
+//HEAD MONK ONLY
+[NAME] == "See No Evil" -> [TRASH]
+[NAME] == "Erlang Shen" -> [TRASH]
+[NAME] == "Bezoar Stone" -> [TRASH]
+[NAME] == "The Eye of the Storm" -> [TRASH]
+[NAME] == "Kekegi's Unbreakable Spirit" -> [KEEP]
+[NAME] == "Gyana Na Kashu" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Mind's Eye" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Eye of Peshkov" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Laws of Seph" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Tzo Krin's Gaze" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Madstone" -> [TRASH]
+ 
+
+//VOODOO MASKS
+//HEAD WITCH DOCTOR ONLY
+[NAME] == "Split Tusk" -> [TRASH]
+[NAME] == "The Grin Reaper" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Visage of Giyua" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Tiklandian Visage" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Quetzalcoatl" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Carnevil" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Mask of Jeram " # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+
+
+//WIZARD HATS
+//HEAD WIZARD ONLY
+
+[NAME] == "Crown of the Primus" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Swami" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Dark Mage's Shade" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Archmage's Vicalyke" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Magistrate" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Storm Crow" -> [KEEP]
+[NAME] == "Velvet Camaral" -> [KEEP] 
+
+
+
+
+
+
+//PAULDRONS
+//SHOULDERS
+[NAME] == "Homing Pads" -> [TRASH]
+[NAME] == "Death Watch Mantle" -> [TRASH]
+[NAME] == "Profane Pauldrons" -> [TRASH]
+[NAME] == "Spaulders of Zakara" -> [TRASH]
+[NAME] == "Seven Sins" -> [TRASH]
+[NAME] == "Corruption" -> [TRASH]
+[NAME] == "Fury of the Ancients" -> [TRASH]
+[NAME] == "Vile Ward" -> [TRASH] 
+[NAME] == "Pauldrons of the Skeleton King" -> [TRASH]
+
+ 
+//CHEST ARMOR
+//TORSO
+[NAME] == "Aquila Cuirass" -> [TRASH]
+[NAME] == "Chaingmail" -> [TRASH]
+[NAME] == "Heart of Iron" -> [TRASH]
+[NAME] == "Mantle of the Rydraelm" -> [TRASH]
+[NAME] == "Robes of the Rydraelm" -> [TRASH]
+[NAME] == "Shi Mizu's Haori" -> [TRASH]
+[NAME] == "Tyrael's Might" -> [TRASH]
+[NAME] == "Goldskin" -> [TRASH]
+[NAME] == "Armor of the Kind Regent" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Cindercoat" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//CLOAKS
+//TORSO DEMON HUNTER ONLY
+[NAME] == "Beckon Sail" -> [TRASH] 
+[NAME] == "Blackfeather" -> [TRASH] 
+[NAME] == "Cape of the Dark Night" -> [TRASH] 
+[NAME] == "Cloak Of Deception"  -> [TRASH]  
+[NAME] == "The Cloak of the Garwulf"  -> [TRASH] 
+
+
+//BRACERS
+//WRISTS
+[NAME] == "Steady Strikers" -> [TRASH]
+[NAME] == "Warzechian Armguards" -> [TRASH]
+[NAME] == "Lacuni Prowlers" -> [TRASH]
+[NAME] == "Wondrous Deflectors" -> [TRASH]
+[NAME] == "Kethryes' Splint" -> [TRASH]
+[NAME] == "Trag'Oul Coils" -> [TRASH]
+[NAME] == "Nemesis Bracers" -> [TRASH]
+[NAME] == "Promise of Glory" -> [TRASH]
+[NAME] == "Sanguinary Vambraces" -> [TRASH]
+[NAME] == "Sanguinary Vambraces" -> [TRASH] 
+[NAME] == "Slave Bonds" -> [TRASH]
+[NAME] == "Steady Strikers" -> [TRASH]
+
+[NAME] == "Ancient Parthan Defenders" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Custerian Wristguards" -> [TRASH] 
+[NAME] == "Strongarm Bracers" -> [TRASH] 
+[NAME] == "Drakon's Lesson" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Strongarm Bracers" # [ANCIENT] == 0 -> [TRASH]
+
+
+[NAME] == "Gungdo Gear" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Wraps of Clarity" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Bracers of Destruction" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Bracers of the First Men" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Coils of the First Spider" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Gabriel's Vambraces" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Jeram's Bracers" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Ranslor's Folly" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Reaper’s Wraps" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Spirit Guards" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//GLOVES
+//HANDS
+
+[NAME] == "Stone Gauntlets" -> [TRASH]
+[NAME] == "Magefist" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "St. Archew's Gage" -> [TRASH]
+[NAME] == "Pendergrasps" -> [TRASH]
+[NAME] == "Gladiator Gauntlets" -> [TRASH]
+[NAME] == "Penders Purchase" -> [TRASH]
+[NAME] == "Gloves of Worship" -> [TRASH]
+[NAME] == "Frostburn" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Tasker and Theo" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+//BELTS
+//WAIST
+//CRUSADER
+[NAME] == "Angel Hair Braid" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Belt of the Trove" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Omnislash" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Blessed of Haull" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Sacred Harness" # [ANCIENT] == 0 -> [TRASH]
+
+//DEMON HUNTER
+[NAME] == "Crashing Rain" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Hunter's Wrath" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Omryn's Chain"  # [ANCIENT] == 0 -> [TRASH]
+
+//MONK
+[NAME] == "Binding of the Lost" # [ANCIENT] == 0 -> [TRASH]
+
+
+//WITCH DOCTOR
+[NAME] == "Belt of Transcendence" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Hwoj Wrap" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Haunting Girdle" # [ANCIENT] == 0 -> [TRASH]
+
+
+//WIZARD
+[NAME] == "Fazula's Improbable Chain" -> [KEEP]
+[NAME] == "Jang's Envelopment" # [ANCIENT] == 0 -> [TRASH]
+
+
+//OTHER
+[NAME] == "Goldwrap" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Fleeting Strap" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Harrington Waistguard" -> [TRASH] 
+[NAME] == "Cord of the Sherma" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Insatiable Belt" -> [TRASH]
+[NAME] == "Quick Draw Belt" -> [TRASH]
+[NAME] == "Saffron Wrap" -> [TRASH]
+[NAME] == "Sash of Knives" -> [TRASH]
+[NAME] == "Sebor's Nightmare" -> [TRASH]
+[NAME] == "String of Ears" -> [TRASH]
+[NAME] == "The Witching Hour"  -> [TRASH]
+[NAME] == "Thundergod's Vigor" -> [TRASH]
+[NAME] == "Razor Strop" -> [TRASH] 
+
+[NAME] == "Vigilante Belt" -> [TRASH] 
+[NAME] == "Hellcat Waistguard" -> [TRASH]
+[NAME] == "The Witching Hour" -> [TRASH]
+[NAME] == "Fleeting Strap" -> [TRASH]
+
+
+//MIGHTY BELTS
+//WAIST BARBARIAN ONLY
+[NAME] == "Ageless Might" -> [TRASH]
+[NAME] == "Chilanik's Chain" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Dread Iron" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Lamentation" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Undisputed Champion" # [ANCIENT] == 0  -> [TRASH] 
+
+[NAME] == "Pride of Cassius" -> [TRASH] 
+[NAME] == "Girdle of Giants" -> [TRASH]
+[NAME] == "Kotuur's Brace" -> [TRASH]
+
+
+
+
+//PANTS
+//LEGS
+[NAME] == "Death’s Bargain" -> [TRASH]
+[NAME] == "Depth Diggers" -> [TRASH]
+[NAME] == "Pox Faulds" -> [TRASH]
+[NAME] == "Hammer Jammers" -> [TRASH]
+[NAME] == "Hexing Pants of Mr. Yan" -> [TRASH]
+[NAME] == "Swamp Land Waders" -> [TRASH]
+[NAME] == "Gehennas" -> [TRASH]
+[NAME] == "Skelon's Deceit" -> [TRASH]
+
+
+//BOOTS
+//FEET
+[NAME] == "Boots of Disregard" -> [TRASH]
+[NAME] == "Boj Anglers" -> [TRASH]
+[NAME] == "Illusory Boots" -> [TRASH]
+[NAME] == "Irontoe Mudsputters" -> [TRASH] 
+[NAME] == "Seismic Treads" -> [KEEP]  //Ground stomp causes an Avalanche.
+[NAME] == "Lut Socks" # [ANCIENT] == 0  -> [TRASH] 
+[NAME] == "Nilfur's Boast" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Crudest Boots" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Fire Walkers" -> [TRASH]
+[NAME] == "Ice Climbers"  -> [TRASH] 
+[NAME] == "Lost Boys" -> [TRASH]
+[NAME] == "Board Walkers" -> [TRASH]
+
+
+
+
+//AMULETS
+//JEWELRY
+
+[NAME] == "Squirt's Necklace" -> [TRASH]
+[NAME] == "Eye of Etlich" -> [TRASH]
+[NAME] == "Rondal's Locket" -> [TRASH]
+[NAME] == "Dovu Energy Trap" -> [TRASH]
+[NAME] == "Haunt of Vaxo" -> [TRASH]
+[NAME] == "Rakoff's Glass of Life" -> [TRASH]
+[NAME] == "The Ess of Johan" -> [TRASH]
+[NAME] == "Holy Beacon" -> [TRASH]
+[NAME] == "Kymbo's Gold" -> [TRASH]
+[NAME] == "The Flavor of Time" -> [TRASH]
+[NAME] == "Ouroboros" -> [TRASH]
+[NAME] == "Halcyon's Ascent" -> [TRASH]
+[NAME] == "Ancestors' Grace" -> [TRASH]
+[NAME] == "Rakoff's Glass of Life" -> [TRASH]
+[NAME] == "The Ess of Johan" -> [TRASH]
+[NAME] == "Halcyon's Ascent" -> [TRASH]
+
+
+ 
+
+[NAME] == "Moonlight Ward" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Talisman of Aranoch" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Countess Julia's Cameo" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Dovu Energy Trap" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Rakoff's Glass of Life" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Ess of Johan" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Star of Azkaranth" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Xephirian Amulet" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Halcyon's Ascent" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Golden Gorget of Leoric" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Overwhelming Desire" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Dovu Energy Trap" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Haunt of Vaxo" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Mara's Kaleidoscope" # [ANCIENT] == 0 -> [TRASH]
+
+//RINGS
+//JEWELRY
+
+[NAME] == "Band of the Rue Chambers" # [ANCIENT] == 0 -> [TRASH]  //MONK
+[NAME] == "Broken Promises" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Ring of Royal Grandeur" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Leoric's Signet"  # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Pandemonium Loop"  # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Rogar's Huge Stone" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Short Man's Finger" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Tall Man's Finger" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Wyrdward" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Bul-Kathos's Wedding Band" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Broken Promises" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Eternal Union" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Convention of Elements" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Obsidian Ring of the Zodiac" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Halo of Arlyse" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Skull Grasp" # [ANCIENT] == 0 -> [TRASH]
+
+ 
+
+[NAME] == "Justice Lantern" -> [TRASH]
+[NAME] == "Manald Heal" -> [TRASH]
+[NAME] == "Nagelring" -> [TRASH]
+[NAME] == "Stolen Ring" -> [TRASH]
+[NAME] == "Puzzle Ring" -> [TRASH]
+[NAME] == "Band of Hollow Whispers" -> [TRASH]
+[NAME] == "Unity" -> [TRASH]
+[NAME] == "Arcstone" -> [TRASH]
+[NAME] == "Rechel's Ring of Larceny" -> [TRASH]
+[NAME] == "Avarice Band" -> [TRASH]
+[NAME] == "Band of Hollow Whispers" -> [TRASH]
+[NAME] == "Krede's Flame" -> [TRASH]
+[NAME] == "Oculus Ring" -> [TRASH]
+[NAME] == "Stone of Jordan" -> [TRASH]
+
+
+
+//SHIELDS
+//OFF-HAND
+[NAME] == "Lidless Wall" -> [TRASH]
+[NAME] == "Stormshield" -> [TRASH]
+[NAME] == "Coven's Criterion" -> [TRASH]
+ 
+
+
+[NAME] == "Defender of Westmarch" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Denial" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Eberli Charo" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Freeze of Deflection" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Vo'Toyias Spiker" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Ivory Tower" # [ANCIENT] == 0 -> [TRASH]
+ 
+
+ 
+//CRUSADER SHIELDS
+//OFF-HAND CRUSADER ONLY
+
+[NAME] == "Guard of Johanna" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Salvation" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Akarat's Awakening" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Hallowed Bulwark" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Hellskull" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Jekangbord" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Sublime Conviction" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "The Final Witness" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Frydehr's Wrath" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Unrelenting Phalanx" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Piro Marella"  -> [KEEP]
+
+
+//MOJOS
+//OFF-HAND WITCH DOCTOR ONLY
+[NAME] == "Gazing Demise" -> [TRASH]
+[NAME] == "Bitterness" -> [TRASH]
+[NAME] == "Thing of the Deep" -> [TRASH]
+[NAME] == "Spite" -> [TRASH]
+[NAME] == "Henri's Perquisition" -> [KEEP]
+
+[NAME] == "Homunculus" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Uhkapian Serpent" # [ANCIENT] == 0 -> [TRASH]
+ 
+
+//ORBS
+//OFF-HAND WIZARD ONLY
+[NAME] == "Singularity" -> [TRASH]
+[NAME] == "Winter Flurry" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Light of Grace" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Mirrorball" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Myken's Ball of Hate" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "The Oculus" -> [KEEP]
+[NAME] == "Triumvirate" # [ANCIENT] == 0 -> [TRASH]
+ 
+
+
+
+
+
+//QUIVERS 
+//OFF-HAND DEMON HUNTER ONLY
+[NAME] == "Fletcher's Pride" -> [TRASH]
+[NAME] == "Sin Seekers" -> [TRASH]
+[NAME] == "Holy Point Shot" -> [TRASH]
+[NAME] == "Black Bone Arrows" -> [TRASH]
+[NAME] == "Archfiend Arrows" -> [TRASH]
+
+//[NAME] == "Hunter's Wrath" -> [TRASH]
+[NAME] == "Spines of Seething Hatred" # [ANCIENT] == 0 -> [TRASH]
+//[NAME] == "Bombardier's Rucksack" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Emimei's Duffel" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "The Ninth Cirri Satchel" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Meticulous Bolts" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "The Demon's Demise" -> [KEEP]
+//[NAME] == "Dead Man's Legacy" # [ANCIENT] == 0 -> [TRASH]
+
+
+
+
+
+//AXES
+//ONE-HANDED
+[NAME] == "Flesh Tearer" -> [TRASH]
+[NAME] == "Genzaniku" -> [TRASH]
+//[NAME] == "Hack" -> [TRASH]
+[NAME] == "The Wedge" -> [TRASH]
+[NAME] == "The Burning Axe of Sankis" -> [TRASH]
+[NAME] == "Utar's Roar" -> [TRASH]
+[NAME] == "The Butcher's Sickle" -> [TRASH]
+[NAME] == "Sky Splitter" -> [TRASH]
+ 
+
+
+//DAGGERS
+//ONE-HANDED
+[NAME] == "The Barber" -> [TRASH]
+[NAME] == "Kill" -> [TRASH]
+[NAME] == "Pig Sticker" -> [TRASH]
+[NAME] == "Envious Blade" -> [TRASH]
+[NAME] == "Wizardspike" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Eun-jang-do" -> [TRASH] 
+
+
+//MACES
+//ONE-HANDED
+
+[NAME] == "Devastator" -> [TRASH]
+[NAME] == "Earthshatter" -> [TRASH]
+[NAME] == "Echoing Fury" -> [TRASH]
+[NAME] == "Nailbiter" -> [TRASH]
+[NAME] == "Neanderthal" -> [TRASH]
+[NAME] == "Nutcracker" -> [TRASH]
+[NAME] == "Sun Keeper" -> [TRASH]
+[NAME] == "Telranden's Hand" -> [TRASH]
+[NAME] == "Mad Monarch's Scepter" -> [TRASH]
+[NAME] == "Odyn Son" -> [TRASH]
+
+[NAME] == "Jace's Hammer of Vigilance" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Solanium" -> [TRASH] 
+
+
+
+
+//SPEARS
+//ONE-HANDED
+[NAME] == "Scrimshaw" -> [KEEP]
+[NAME] == "Arreat's Law" -> [KEEP]
+[NAME] == "The Three Hundredth Spear" -> [TRASH]f
+[NAME] == "Empyrean Messenger" -> [TRASH]
+[NAME] == "Akanesh, the Herald of Righteousness" -> [TRASH]
+ 
+
+//SWORDS
+//ONE-HANDED
+
+[NAME] == "Monster Hunter" -> [TRASH]
+[NAME] == "Wildwood" -> [TRASH]
+[NAME] == "Doombringer" -> [TRASH]
+[NAME] == "The Ancient Bonesaber of Zumakalis" -> [TRASH]
+[NAME] == "Exarian" -> [TRASH]
+[NAME] == "Gift of Silaria" -> [TRASH]
+[NAME] == "Sever" -> [TRASH]
+[NAME] == "Devil Tongue" -> [TRASH]
+[NAME] == "Griswold's Masterpiece" -> [TRASH]
+[NAME] == "Griswold's Perfection" -> [TRASH]
+[NAME] == "Fulminator" -> [TRASH]
+[NAME] == "Azurewrath" -> [TRASH]
+[NAME] == "Rimeheart" -> [TRASH]
+
+
+
+[NAME] == "In-geom" -> [TRASH] 
+
+
+
+//CEREMONIAL KNIVES
+//ONE-HANDED WITCH DOCTOR ONLY
+[NAME] == "Umbral Oath" -> [TRASH]
+[NAME] == "Last Breath" -> [TRASH]
+[NAME] == "Living Umbral Oath" -> [TRASH]
+ 
+[NAME] == "Deadly Rebirth" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Spider Queen's Grasp" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+
+//FIST WEAPONS
+//ONE-HANDED MONK ONLY
+[NAME] == "Fleshrake" -> [TRASH]
+[NAME] == "Rabid Strike" -> [TRASH]
+[NAME] == "Scarbringer" -> [TRASH]
+[NAME] == "Sledge Fist" -> [TRASH]
+[NAME] == "Logan's Claw" -> [TRASH]
+[NAME] == "Demon Hand" -> [TRASH]
+[NAME] == "Crystal Fist" -> [TRASH]
+[NAME] == "Won Khim Lau" -> [TRASH]
+[NAME] == "Demon Claw" -> [TRASH]
+[NAME] == "The Fist of Az'Turrasq" -> [KEEP]
+[NAME] == "Lion's Claw" -> [KEEP]
+
+
+[NAME] == "Jawbreaker" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Vengeful Wind" # [ANCIENT] == 0 -> [TRASH] 
+
+//FLAILS
+//ONE-HANDED CRUSADER ONLY
+[NAME] == "Inviolable Faith" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Johanna's Argument" -> [KEEP] 
+
+ //MIGHTY WEAPONS
+//ONE-HANDED BARBARIAN ONLY
+[NAME] == "Ambo's Pride" -> [TRASH]
+[NAME] == "Harvest Moon" -> [TRASH]
+[NAME] == "Blade of the Warlord" -> [TRASH]
+[NAME] == "Night's Reaping" -> [TRASH]
+ 
+[NAME] == "Fjord Cutter" -> [TRASH] 
+[NAME] == "Remorseless" -> [TRASH] 
+
+
+//AXES
+//TWO-HANDED
+
+[NAME] == "The Executioner" -> [TRASH]
+//[NAME] == "Butcher's Carver" -> [TRASH]
+[NAME] == "Messerschmidt's Reaver " -> [TRASH]
+[NAME] == "Skorn" -> [TRASH]
+[NAME] == "Burst Of Wrath" -> [TRASH]
+
+
+//MACES
+//TWO-HANDED
+
+[NAME] == "Arthef's Spark of Life" -> [TRASH]
+[NAME] == "Crushbane" -> [TRASH]
+[NAME] == "Wrath of the Bone King" -> [TRASH]
+[NAME] == "Sledge of Athskeleng" -> [TRASH]
+[NAME] == "Soulsmasher" -> [TRASH]
+[NAME] == "Schaefer's Hammer" -> [TRASH]
+
+[NAME] == "Skywarden" -> [KEEP]
+[NAME] == "The Furnace" -> [TRASH]
+
+
+//POLEARMS
+//TWO-HANDED
+
+[NAME] == "Pledge of Caldeum" -> [TRASH]
+[NAME] == "Standoff" -> [TRASH]
+//[NAME] == "Bovine Bardiche" -> [TRASH]
+[NAME] == "Heart Slaughter" -> [TRASH]
+
+
+//STAVES
+//TWO-HANDED
+[NAME] == "Autumn's Call" -> [TRASH]
+[NAME] == "The Broken Staff" -> [TRASH]
+[NAME] == "The Magi" -> [TRASH]
+//[NAME] == "Wormwood" -> [TRASH]
+[NAME] == "Mark of The Magi" -> [TRASH]
+
+
+[NAME] == "Valthek's Rebuke" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Maloth's Focus" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Wormwood" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Grand Vizier" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Tormentor" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+
+
+ 
+   
+
+//SWORDS
+//TWO-HANDED
+[NAME] == "Faithful Memory" -> [TRASH]
+[NAME] == "The Zweihander" -> [TRASH]
+[NAME] == "Blackguard" -> [TRASH]
+[NAME] == "Stalgard's Decimator" -> [TRASH]
+[NAME] == "The Sultan of Blinding Sand" -> [TRASH]
+[NAME] == "The Grandfather" -> [TRASH]
+[NAME] == "Warmonger" -> [TRASH]
+
+
+
+[NAME] == "Scourge" -> [TRASH] 
+[NAME] == "Stalgard's Decimator" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Blade of Prophecy" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Maximus" -> [TRASH] 
+[NAME] == "Cam's Rebuttal" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Blood Brother" -> [TRASH] 
+
+
+
+ 
+
+//DAIBO
+//TWO-HANDED MONK ONLY
+[NAME] == "Balance" -> [TRASH]
+[NAME] == "Lai Yui's Taiji" -> [TRASH]
+[NAME] == "Staff of Kyro" -> [TRASH]
+[NAME] == "Rozpedin's Staff" -> [TRASH]
+[NAME] == "Lai Yui's Persuader" -> [TRASH]
+[NAME] == "Rozpedin's Force" -> [TRASH]
+//[NAME] == "Warstaff of General Quang" -> [TRASH]
+
+[NAME] == "The Flow of Eternity" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Flying Dragon" # [ANCIENT] == 0 -> [TRASH] 
+
+
+ 
+
+//FLAILS
+//TWO-HANDED CRUSADER ONLY
+[NAME] == "Golden Flense" -> [KEEP] 
+
+
+
+//MIGHTY WEAPONS
+//TWO-HANDED BARBARIAN ONLY
+[NAME] == "Unending War" -> [TRASH]
+[NAME] == "War of the Dead" -> [TRASH]
+
+[NAME] == "Bastion's Revered" -> [TRASH] 
+[NAME] == "Fury of the Vanished Peak" -> [TRASH] 
+[NAME] == "Madawc's Sorrow" -> [TRASH] 
+[NAME] == "The Gavel of Judgment" -> [TRASH] 
+
+
+
+
+
+//BOWS
+//RANGED
+
+[NAME] == "Uskang" -> [TRASH]
+[NAME] == "Longshot" -> [TRASH]
+[NAME] == "Etrayu" -> [TRASH]
+[NAME] == "Windforce" -> [TRASH]
+[NAME] == "Venomhusk" -> [TRASH]
+[NAME] == "Sydyru Crust" -> [TRASH]
+[NAME] == "Unbound Bolt" -> [TRASH]
+ 
+//[NAME] == "The Raven's Wing" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Kridershot" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Cluckeye" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Leonine Bow of Hashir" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+//CROSSBOWS
+//RANGED
+[NAME] == "Bakkan Caster" -> [TRASH]
+[NAME] == "Starspine" -> [TRASH]
+[NAME] == "Manticore" -> [TRASH]
+[NAME] == "Arcane Barb" -> [TRASH]
+
+[NAME] == "Chanon Bolter" -> [KEEP]
+[NAME] == "Demon Machine" -> [KEEP] 
+[NAME] == "Buriza-Do Kyanon" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Hellrack" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Wojahnni Assaulter" -> [KEEP]
+//[NAME] == "Calamity" # [ANCIENT] == 0 -> [TRASH]
+
+
+
+
+
+//HAND CROSSBOWS
+//RANGED DEMON HUNTER ONLY
+[NAME] == "Izzuccob" -> [TRASH]
+[NAME] == "Balefire Caster" -> [TRASH]
+[NAME] == "Deadeye" -> [TRASH]
+[NAME] == "Dawn" -> [TRASH]
+[NAME] == "Blitzbolter" -> [TRASH]
+
+
+
+[NAME] == "K'mar Tenclip" -> [TRASH]
+
+  
+//WANDSf
+//RANGED WIZARD ONLY
+
+[NAME] == "Starfire" -> [TRASH]
+[NAME] == "Blackhand Key" -> [TRASH]
+[NAME] == "Fragment of Destiny" -> [TRASH]
+[NAME] == "Slorak's Madness" -> [KEEP]
+[NAME] == "Ruinstoke" -> [TRASH]
+[NAME] == "Atrophy" -> [TRASH]
+
+
+[NAME] == "Gesture of Orpheus" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Serpent's Sparker" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Wand of Woh" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Slorak's Madness" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Aether Walker" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//=======================================================================
+//Follower Special
+// ENCHANTRESS FOCUSES
+
+[NAME] == "Hand of the Prophet" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Smoking Thurible" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Vadim's Surge" # [ANCIENT] == 0 -> [TRASH] 
+ 
+// SCOUNDREL TOKENS
+[NAME] == "Ribald Etchings" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Skeleton Key" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Slipka's Letter Opener" # [ANCIENT] == 0 -> [TRASH] 
+
+// TEMPLAR RELICS
+[NAME] == "Enchanting Favor" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Hillenbrand's Training Sword" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Relic of Akarat" # [ANCIENT] == 0 -> [TRASH] 
+ 
+
+
+//=======================================================================
+
+//SET PART
+
+//Thorns of the Invoker
+[NAME] == "Burden of the Invoker" -> [TRASH]
+[NAME] == "Crown of the Invoker" -> [TRASH]
+[NAME] == "Pride of the Invoker" -> [TRASH]
+[NAME] == "Shackles of the Invoker" -> [TRASH]
+
+
+
+//Blackthorne's Battlegear
+[NAME] == "Blackthorne's Duncraig Cross" -> [TRASH]
+[NAME] == "Blackthorne's Jousting Mail" -> [TRASH]
+[NAME] == "Blackthorne's Notched Belt" -> [TRASH]
+[NAME] == "Blackthorne's Spurs" -> [TRASH]
+[NAME] == "Blackthorne's Surcoat" -> [TRASH]
+
+
+
+//Immortal King's Call
+[NAME] == "Immortal King's Boulder Breaker" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Immortal King's Eternal Reign" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Immortal King's Irons" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Immortal King's Stature" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Immortal King's Stride" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Immortal King's Tribal Binding" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Immortal King's Triumph" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+
+//Natalya's Vengeance
+[NAME] == "Natalya's Bloody Footprints" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Natalya's Embrace" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Natalya's Leggings" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Natalya's Reflection" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Natalya's Sight" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Natalya's Slayer" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Natalya's Touch" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+//Tal Rasha's Elements
+[NAME] == "Tal Rasha's Allegiance" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Tal Rasha's Brace" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Tal Rasha's Grasp" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Tal Rasha's Guise of Wisdom" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Tal Rasha's Relentless Pursuit" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Tal Rasha's Stride" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Tal Rasha's Unwavering Glare" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//Unhallowed Essence
+[NAME] == "Accursed Visage" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Cage of the Hellborn" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Fiendish Grips" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Hell Walkers" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Unholy Plates" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Unsanctified Shoulders" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//Might of the Earth
+[NAME] == "Eyes of the Earth" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Pull of the Earth" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Spires of the Earth" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Weight of the Earth" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+//Firebird's Finery
+[NAME] == "Firebird's Breast" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Firebird's Down" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Firebird's Eye" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Firebird's Pinions" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Firebird's Plume" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Firebird's Talons" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Firebird's Tarsi" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+//Helltooth Harness
+[NAME] == "Helltooth Gauntlets" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Helltooth Greaves" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Helltooth Leg Guards" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Helltooth Mantle" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Helltooth Mask" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Helltooth Tunic" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//Armor of Akkhan
+[NAME] == "Breastplate of Akkhan" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Cuisses of Akkhan" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Gauntlets of Akkhan" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Helm of Akkhan" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Pauldrons of Akkhan" -> [TRASH] 
+[NAME] == "Sabatons of Akkhan" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//Wrath of the Wastes
+[NAME] == "Cuirass of the Wastes" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Gauntlet of the Wastes" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Helm of the Wastes" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Pauldrons of the Wastes" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Sabaton of the Wastes" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Tasset of the Wastes" # [ANCIENT] == 0 -> [TRASH] 
+
+//Raiment of the Jade Harvester
+[NAME] == "Jade Harvester's Courage" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Jade Harvester's Joy" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Jade Harvester's Mercy" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Jade Harvester's Peace" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Jade Harvester's Swiftness" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Jade Harvester's Wisdom" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+//Embodiment of the Marauder
+[NAME] == "Marauder's Carapace" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Marauder's Encasement" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Marauder's Gloves" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Marauder's Spines" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Marauder's Treads" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Marauder's Visage" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//Spirit of Arachyr
+[NAME] == "Arachyr’s Carapace" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Arachyr’s Claws" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Arachyr’s Legs" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Arachyr’s Mantle" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Arachyr’s Stride" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Arachyr’s Visage" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//Seeker of the Light
+[NAME] == "Crown of the Light" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Foundation of the Light" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Heart of the Light" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Mountain of the Light" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Towers of the Light" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Will of the Light" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//Raiment of a Thousand Storms
+[NAME] == "Eight-Demon Boots" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Fists of Thunder" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Heart of the Crashing Wave" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Mantle of the Upside-Down Sinners" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Mask of the Searing Sky" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Scales of the Dancing Serpent" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+//The Legacy of Raekor
+[NAME] == "Raekor's Breeches" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Raekor's Burden" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Raekor's Heart" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Raekor's Striders" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Raekor's Will" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Raekor's Wraps" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+//Roland's Legacy
+[NAME] == "Roland's Bearing" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Roland's Determination" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Roland's Grasp" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Roland's Mantle" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Roland's Stride" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Roland's Visage" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+
+//Delsere's Magnum Opus
+[NAME] == "Dashing Pauldrons of Despair" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Fierce Gauntlets" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Harness of Truth" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Leg Guards of Mystery" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Shrouded Mask" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Striders of Destiny" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+
+//Monkey King's Garb
+[NAME] == "Sunwuko's Balance" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Sunwuko's Crown" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Sunwuko's Paws" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Sunwuko's Shines" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+//Uliana's Stratagem
+[NAME] == "Uliana's Burden" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Uliana's Destiny" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Uliana's Fury" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Uliana's Heart" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Uliana's Spirit" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Uliana's Strength" # [ANCIENT] == 0 -> [TRASH] 
+
+//The Shadow’s Mantle
+[NAME] == "The Shadow's Bane" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Shadow's Coil" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Shadow's Grasp" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "The Shadow's Heels" # [ANCIENT] == 0 -> [TRASH] 
+
+
+//Inna's Mantra
+[NAME] == "Inna's Favor" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Inna's Hold" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Inna's Radiance" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Inna's Reach" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Inna's Sandals" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Inna's Temperance" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Inna's Vast Expanse" # [ANCIENT] == 0 -> [TRASH]
+
+
+
+//Vyr's Amazing Arcana
+[NAME] == "Vyr's Astonishing Aura" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Vyr's Fantastic Finery" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Vyr's Grasping Gauntlets" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Vyr's Proud Pauldrons" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Vyr's Sightless Skull" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Vyr's Swaggering Stance" # [ANCIENT] == 0 -> [TRASH]
+
+
+//Zunimassa's Haunt
+[NAME] == "Zunimassa's Cloth" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Zunimassa's Finger Wraps" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Zunimassa's Marrow" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Zunimassa's Pox" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Zunimassa's String of Skulls" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Zunimassa's Trail" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Zunimassa's Vision" # [ANCIENT] == 0 -> [TRASH]
+
+//Chantodo's Resolve
+[NAME] == "Chantodo's Force" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Chantodo's Will" # [ANCIENT] == 0 -> [TRASH] 
+
+//Manajuma's Way
+[NAME] == "Manajuma's Carving Knife" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Manajuma's Gory Fetch" # [ANCIENT] == 0 -> [TRASH] 
+
+
+
+//Bul-Kathos's Oath
+[NAME] == "Bul-Kathos's Solemn Vow" # [ANCIENT] == 0 -> [TRASH] 
+[NAME] == "Bul-Kathos's Warrior Blood" # [ANCIENT] == 0 -> [TRASH] 
+
+//Danetta's Hatred
+[NAME] == "Danetta's Revenge" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Danetta's Spite" # [ANCIENT] == 0 -> [TRASH]
+
+//Bastions of Will
+[NAME] == "Focus" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "Restraint" # [ANCIENT] == 0 -> [TRASH]
+
+//Endless Walk
+[NAME] == "The Compass Rose" # [ANCIENT] == 0 -> [TRASH]
+[NAME] == "The Traveler's Pledge" # [ANCIENT] == 0 -> [TRASH]
+
+//=======================================================================
+[QUALITY] == "Legendary"  -> [KEEP]
+[QUALITY] == "Set"  -> [KEEP]
